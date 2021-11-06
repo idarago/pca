@@ -6,6 +6,18 @@ Principal Component Analysis (PCA) is a dimension-reduction algorithm. The idea 
 
 A toy case is shown to illustrate the fact that PCA are the directions which explain most of the variance, in order (```toycase.py```).
 
+<p align="center">
+  <img src="https://github.com/idarago/pca/blob/main/toydata.png" />
+</p>
+
 An example where PCA can be used for dimension reduction and classification is shown for the Iris dataset (```irisdataset.py```).
 
+<p align="center">
+  <img src="https://github.com/idarago/pca/blob/main/irisdataset.png" />
+</p>
+
 We also show how to use PCA for image compression (```imagecompression.py```).
+
+<p align="center">
+  <img src="https://github.com/idarago/pca/blob/main/pca_image_compression.png" />
+</p>
